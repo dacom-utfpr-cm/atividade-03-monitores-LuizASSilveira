@@ -1,5 +1,7 @@
 package ex2;
-
+/*
+@luizASSilveira
+*/
 import java.util.Random;
 
 public class ThreadCount extends Thread{
